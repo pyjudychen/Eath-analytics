@@ -1,2 +1,2 @@
-# Eath-analytics
+# Earth-analytics
 Analysis of earth science data
